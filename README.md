@@ -17,3 +17,6 @@ a  ver si es cierto que no se puede hacer git pull si el repo en github no esta 
 
 
 aqui se vera de que lado masca la iguana
+
+
+aasasasasasas
