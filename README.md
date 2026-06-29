@@ -16,5 +16,4 @@ que_:
 a  ver si es cierto que no se puede hacer git pull si el repo en github no esta sincronizado con el repo local jejej intentare hacer git pull sin que este sincronizado a ver que pasa
 
 
-
-tercer cambio con fetch desde el repo en web 
+aqui se vera de que lado masca la iguana
